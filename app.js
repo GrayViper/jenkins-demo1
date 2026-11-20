@@ -1,1 +1,1 @@
-console.log("this is me")
+npm init -y
